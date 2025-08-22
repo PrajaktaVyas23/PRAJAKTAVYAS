@@ -1,0 +1,13 @@
+{
+  "users": [],
+  "materials": [],
+  "chats": [],
+  "analytics": {
+    "overview": {
+      "totalStudyTimeHours": 127,
+      "materialsCompleted": 43,
+      "quizAccuracyPercent": 88,
+      "currentStreakDays": 7
+    }
+  }
+}
